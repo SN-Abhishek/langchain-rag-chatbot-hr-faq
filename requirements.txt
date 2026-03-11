@@ -1,0 +1,8 @@
+langchain
+langchain-community
+langchain-core
+langchain-text-splitters
+langchain-anthropic
+faiss-cpu
+sentence-transformers
+python-dotenv
